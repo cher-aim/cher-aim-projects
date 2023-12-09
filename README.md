@@ -1,19 +1,20 @@
-### Hello! 👋
+<h1 align="center">Hello! 👋 I'm Cher-aim (Cher)</h1>
 
-> I'm Cher-aim Thiratkueakul, a fourth-year English major student passionate about data analytics.
-### Key Highlights ✨
-- **Self-Taught Enthusiast:** I'm really thriving to master the data analytics field. I learned all the things by myself every day for a year.
-- **SQL Proficiency:** Adept at crafting complex SQL queries. I might not afford LeetCode, but hey, who needs it when there's a treasure trove of free challenges out there? 😎 I'm acing them all!
-- **BigQuery Expertise:** I used BigQuery for every task during my internship period. I've successfully executed tasks ranging from data cleaning to the development of data marts.
+<h3 align="center">a fourth-year English major student passionate about data analytics</h3>
 
+<p align="left">
+I'm a self-taught enthusiast in data science. Despite being an English major, my love for logical thinking, and solving problems with data-driven decisions has led me to immerse myself in the world of data science. It's not just a field of study for me; it's my passion, and I'm committed to continuous learning until I master it!
+</p>
 
-## Tools I use 🛠️
+## 💻 Languages and Tools I use 
+- SQL
+- Python
+- R
 - GoogleBigQuery
 - PowerBI
 - Tableau
-- 
 
-## Work Experience 💼
+## 💼 Work Experience 
 ### Data Analyst Intern | Bluebik Vulcan
 *November 13, 2023 - Present*
 
@@ -23,5 +24,3 @@
 - **End-to-End Data Mart Development:** Demonstrated proficiency in leading the entire lifecycle of data mart development, from meticulous requirement gathering to the execution and publication phases.
 
 - **Dashboard Development with PowerBI:** Applied expertise in transforming raw data into insightful visualizations, creating a compelling dashboard using PowerBI.
-
-This internship has been a dynamic playground for learning and growth, and I can't wait to see where the journey takes me next!
