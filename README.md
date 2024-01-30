@@ -8,8 +8,7 @@ I'm a self-taught enthusiast in data science. Despite being an English major, my
 
 ## 💻 Languages and Tools I use 
 - SQL
-- Python
-- R
+- Python (Basic)
 - GoogleBigQuery
 - PowerBI
 - Tableau
@@ -21,6 +20,6 @@ I'm a self-taught enthusiast in data science. Despite being an English major, my
 #### Key Contributions:
 - **Proficient Data Cleaning:** Successfully navigated the intricacies of data cleaning using BigQuery, handling both public and real datasets with precision.
 
-- **End-to-End Data Mart Development:** Demonstrated proficiency in leading the entire lifecycle of data mart development, from meticulous requirement gathering to the execution and publication phases.
+- **End-to-End Data Mart Development:** Demonstrated proficiency in developing data marts, from meticulous requirement gathering to the execution and publication phases.
 
 - **Dashboard Development with PowerBI:** Applied expertise in transforming raw data into insightful visualizations, creating a compelling dashboard using PowerBI.
