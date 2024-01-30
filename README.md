@@ -18,8 +18,8 @@ I'm a self-taught enthusiast in data science. Despite being an English major, my
 *November 13, 2023 - Present*
 
 #### Key Contributions:
-- **Proficient Data Cleaning:** Successfully navigated the intricacies of data cleaning using BigQuery, handling both public and real datasets with precision.
+- **Data Cleaning:** Successfully navigated the intricacies of data cleaning using BigQuery, handling both public and real datasets with precision.
 
-- **End-to-End Data Mart Development:** Demonstrated proficiency in developing data marts, from meticulous requirement gathering to the execution and publication phases.
+- **Data Mart Development:** Demonstrated proficiency in developing data marts, from meticulous requirement gathering to the execution and publication phases.
 
 - **Dashboard Development with PowerBI:** Applied expertise in transforming raw data into insightful visualizations, creating a compelling dashboard using PowerBI.
