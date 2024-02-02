@@ -7,12 +7,12 @@ Hello! I'm Cher-aim (Cher), a fourth-year English major with a fervent passion f
 </p>
 
 <p align="justify">
-As a self-taught data enthusiast, I've dedicated countless hours to learning the intricacies of data analysis, machine learning, and data visualization. My journey is a testament to the belief that passion and perseverance can pave the way to new realms of knowledge and expertise, regardless of one's academic or professional background.
+As a self-taught data enthusiast, I've dedicated countless hours to learning the intricacies of data analysis. My journey is a testament to the belief that passion and perseverance can pave the way to new realms of knowledge and expertise, regardless of one's academic or professional background.
 </p>
 
 # My Projects
 
-## SQL Data Cleansing Projects**
+## SQL Data Cleaning Projects
 ### [1. Audiobook Data Cleaning Project](https://github.com/cher-aim/audiobook-dataset-data-cleaning)
 
 **Overview:** This project showcases my skills in data cleaning and preparation, a critical step in any data analysis workflow. By employing SQL and BigQuery, I tackled a dataset of audiobook reviews, transforming it from a raw, unstructured format into a clean, analysis-ready form. This project highlights my ability to identify and rectify common data issues, such as missing values, duplicates, and inconsistencies, laying a solid foundation for insightful analysis.
