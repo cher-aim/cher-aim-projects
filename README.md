@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻 Welcome to Cher-aim's Data Science Portfolio! 🌟</h1>
+<h1 align="center">🧤 Welcome to Cher-aim's Data Science Portfolio! 🌟</h1>
 
 <h2 align="center">Journey of an English Major into the World of Data Analytics</h2>
 
